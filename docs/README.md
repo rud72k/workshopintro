@@ -1,4 +1,6 @@
-
+---
+title: "Workshop: Python untuk Pemula"
+---
 
 ## Latar Belakang
 Memasuki era industri 4.0 ini, mahasiswa matematika tidak hanya diminta mampu mengerti teorema-teorema matematika, namun juga bisa mengaplikasikannya untuk menyelesaikan permasalahan yang terjadi. Dengan menguasai salah satu bahasa pemrograman mahasiswa akan mampu memberikan solusi permasalahannya serta memberikan visualisasi tentang masalah yang sedang terjadi.
@@ -37,14 +39,15 @@ Luaran kegiatan workshop ini adalah laporan kegiatan dengan lampiran notulen ser
 Rudi Adha Prihandoko S.Si., M.Si.
 
 ### Anggota Tim
-Dr. Nanang Susyanto M.Sc.
-Ari Dwi Hartanto S.Sc., M.Sc.
-Sekar Nugraheni S.Sc., M.Sc.
-Vemmie Nastiti Lestari S.Sc., M.Sc.
-Muhamad Musta’in S.Si.
-Zainudin Saputra (12/331169/PA/14474)
-Muhammad Azmi Fansuri (14/369614/PA/16400)
-Damar Krisnandi Ramdan (13/351846/PA/15650)
+
+- Dr. Nanang Susyanto M.Sc.
+- Ari Dwi Hartanto S.Sc., M.Sc.
+- Sekar Nugraheni S.Sc., M.Sc.
+- Vemmie Nastiti Lestari S.Sc., M.Sc.
+- Muhamad Musta’in S.Si.
+- Zainudin Saputra (12/331169/PA/14474)
+- Damar Krisnandi Ramdan (13/351846/PA/15650)
+- Muhammad Azmi Fansuri (14/369614/PA/16400)
 
 ## Jadwal Kegiatan
 Kegiatan Workshop akan dilaksanakan pada tanggal  3-5 Desember 2018. Berikut rundown acara pada hari-hari tersebut
