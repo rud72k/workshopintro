@@ -56,7 +56,7 @@ Kegiatan Workshop akan dilaksanakan pada tanggal  3-5 Desember 2018. Berikut run
 
 
 |               	| Hari ke-1                         	| Hari ke-2                             	| Hari ke-3 	|   	
-|---------------	|-----------------------------------	|---------------------------------------	|-----------	|
+|:---------------	:|-----------------------------------	|---------------------------------------	|-----------	|
 | 09:30 - 10:00 	| Registrasi dan Instalasi Anaconda 	| Motivasi dan Instalasi library Gurobi 	| Motivasi dan instalasi library Panda dan PyTorch          	| 
 | 10:00 - 11:30 | Pengenalan Python | Matematika Terapan: Model Matematika | Pengenalan Data Science: Data Mining |
 | 11:30 - 12:30 | Istirahat |Istirahat |Istirahat |
