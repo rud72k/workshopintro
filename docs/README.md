@@ -1,7 +1,4 @@
----
-title: "Workshop: Python untuk Pemula"
-author: @rud72k et.al.
----
+
 
 ## Latar Belakang
 Memasuki era industri 4.0 ini, mahasiswa matematika tidak hanya diminta mampu mengerti teorema-teorema matematika, namun juga bisa mengaplikasikannya untuk menyelesaikan permasalahan yang terjadi. Dengan menguasai salah satu bahasa pemrograman mahasiswa akan mampu memberikan solusi permasalahannya serta memberikan visualisasi tentang masalah yang sedang terjadi.
