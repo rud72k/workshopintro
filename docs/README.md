@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Python untuk Pemula"
-author: @rud72k et.all.
+author: @rud72k et.al.
 ---
 
 ## Latar Belakang
@@ -53,7 +53,6 @@ Damar Krisnandi Ramdan (13/351846/PA/15650)
 Kegiatan Workshop akan dilaksanakan pada tanggal  3-5 Desember 2018. Berikut rundown acara pada hari-hari tersebut
 
 
---------------------------------
 |               	| Hari ke-1                         	| Hari ke-2                             	| Hari ke-3 	|   	
 |---------------	|-----------------------------------	|---------------------------------------	|-----------	|
 | 09:30 - 10:00 	| Registrasi dan Instalasi Anaconda 	| Motivasi dan Instalasi library Gurobi 	| Motivasi dan instalasi library Panda dan PyTorch          	| 
@@ -61,4 +60,4 @@ Kegiatan Workshop akan dilaksanakan pada tanggal  3-5 Desember 2018. Berikut run
 | 11:30 - 12:30 | Istirahat |Istirahat |Istirahat |
 | 12:30 - 14:00 | Pengenalan Python | Matematika Terapan: Simulasi | Pengenalan Data Science: Visualisasi | 
 | 14:00 - 15:00 | Kerja Mandiri | Kerja Mandiri | Kerja Mandiri | 
-------------------------------------------
+
