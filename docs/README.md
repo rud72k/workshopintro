@@ -61,3 +61,4 @@ Kegiatan Workshop akan dilaksanakan pada tanggal  3-5 Desember 2018. Berikut run
 | 12:30 - 14:00 | Pengenalan Python | Matematika Terapan: Simulasi | Pengenalan Data Science: Visualisasi | 
 | 14:00 - 15:00 | Kerja Mandiri | Kerja Mandiri | Kerja Mandiri | 
 
+## Good luck and have fun!
